@@ -7,6 +7,10 @@ local M = {}
 M.ui = {
 	theme = "onedark",
 
+  statusline = {
+    theme = "vscode_colored",
+    -- separator_style = "round",
+  }
 	-- hl_override = {
 	-- 	Comment = { italic = true },
 	-- 	["@comment"] = { italic = true },
