@@ -32,7 +32,7 @@ return {
       auto_install = true,
   		ensure_installed = {
   			"vim", "lua", "vimdoc",
-       "c", "make", "cmake", "bash"
+       "c", "cpp", "make", "cmake", "bash"
   		},
   	},
   },
